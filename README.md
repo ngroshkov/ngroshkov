@@ -1,4 +1,9 @@
-## Hi there 👋
+
+I'm Software and Data Engineer with a strong interest in GIS, Remote Sensing, and IoT technologies.
+
+Here you'll find projects I've done in my spare time or contributed to as a volunteer.
+
+Full CV is availble **[here](https://tinyurl.com/3f4cdw4s)**.
 
 <!--
 **ngroshkov/ngroshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
